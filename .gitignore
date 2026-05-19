@@ -1,0 +1,19 @@
+# Visual Studio 临时文件
+.vs/
+*.ipch
+*.suo
+*.user
+*.sln.ide
+*.VC.db
+
+# 编译输出
+Debug/
+Release/
+x64/
+x86/
+*.exe
+*.obj
+*.pdb
+
+# 其他
+*.log
