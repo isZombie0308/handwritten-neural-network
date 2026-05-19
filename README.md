@@ -8,7 +8,7 @@
 
 | 训练过程 | 识别结果 | 添加训练数据 |
 | :------: | :------: | :----------: |
-| ![训练演示](./神经网络/神经网络/训练演示.gif) | ![识别演示](./神经网络/神经网络/识别演示.gif) | ![输入训练数据演示](./神经网络/神经网络/输入训练数据演示.gif) |
+| ![训练演示](./神经网络/神经网络/image/训练演示.gif) | ![识别演示](./神经网络/神经网络/image/识别演示.gif) | ![输入训练数据演示](./神经网络/神经网络/image/输入训练数据演示.gif) |
 
 ---
 
@@ -40,20 +40,22 @@
 ## 📁 项目结构
 数字识别/
 ├── 神经网络/
-│ ├── 神经网络.sln
-│ ├── 神经网络/
-│ │ ├── main.cpp
-│ │ ├── net.hpp / net.cpp
-│ │ ├── class.hpp / class.cpp
-│ │ ├── file/
-│ │ │ ├── training_digits.txt
-│ │ │ ├── saving_digits_256.txt
-│ │ │ └── out.txt
-│ │ ├── image/
-│ │ └── test.exe
+│   ├── 神经网络.sln
+│   ├── 神经网络/
+│   │   ├── main.cpp
+│   │   ├── net.hpp
+│   │   ├── net.cpp
+│   │   ├── class.hpp
+│   │   ├── class.cpp
+│   │   ├── file/
+│   │   │   ├── training_digits.txt
+│   │   │   ├── saving_digits_256.txt
+│   │   │   └── out.txt
+│   │   ├── image/
+│   │   │   ├── (各种图片资源)
+│   │   │   └── (GIF 演示文件)
+│   │   └── test.exe
 └── README.md
-
-text
 
 ---
 
