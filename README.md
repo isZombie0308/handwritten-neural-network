@@ -111,7 +111,7 @@
 ## 🙏 致谢
 本项目参考了 B站 up主 Preprue 的视频讲解，感谢他的分享。
 
-[![点击观看视频]](https://www.bilibili.com/video/BV1zKRRYfEVG/)
+[点击观看B站 up主 Preprue讲解视频](https://www.bilibili.com/video/BV1zKRRYfEVG/)
 
 ---
 
